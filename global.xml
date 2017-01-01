@@ -1,0 +1,96 @@
+<!-- All 'time' notations are in seconds. -->
+<!-- To disable a setting set it to -1. -->
+<settings>
+    <setting type="ISLANDS">
+        <defaultValue>1</defaultValue>
+        <starterPoints>3</starterPoints>
+        <valueModifier>1.0</valueModifier>
+        <monsterLimit>25</monsterLimit>
+        <chunkAnimalLimit>30</chunkAnimalLimit>
+        <defaultStorageSize>18</defaultStorageSize>
+        <expLevelUp>1000</expLevelUp>
+        <autoCorrectExp>false</autoCorrectExp>
+        <deleteCooldown>120</deleteCooldown>
+        <dimensions>
+            <distance>175</distance>
+            <gapDistance>150</gapDistance>
+            <startingY>105</startingY>
+        </dimensions>
+        <limitations>
+            <oreThreshold>30</oreThreshold>
+            <optimalThreshold>50</optimalThreshold>
+        </limitations>
+    </setting>
+
+    <setting type="CHALLENGES">
+        <scanner>
+            <maxChests>-1</maxChests>
+            <maxCriteria>-1</maxCriteria>
+        </scanner>
+        <exp>
+            <beginner>100</beginner>
+            <intermediate>200</intermediate>
+            <expert>300</expert>
+            <superexpert>400</superexpert>
+        </exp>
+    </setting>
+
+    <setting type="TASKS">
+        <!-- Changing these values will not take effect until reboot. -->
+        <!-- Time notations for this section are in ticks. -->
+        <valueCheck>18000</valueCheck>
+        <atmosphere>54000</atmosphere>
+        <topTen>36000</topTen>
+        <gadgets>12000</gadgets>
+        <scoreboard>75</scoreboard>
+    </setting>
+
+    <setting type="MINIGAMES">
+        <lobbyTime>25</lobbyTime>
+        <cooldown>145</cooldown>
+        <maximumParticipants>-1</maximumParticipants>
+        <medals>
+            <!-- Prizes denoted in amount of points given. -->
+            <bronze>1</bronze>
+            <silver>2</silver>
+            <gold>3</gold>
+        </medals>
+    </setting>
+
+    <setting type="ORE_GENERATION">
+        <levelModifier>2.0</levelModifier>
+        <initialChance>7</initialChance>
+        <!-- Chance distribution over 100%. -->
+        <chance ore="COAL_ORE">25</chance>
+        <chance ore="LAPIS_ORE">50</chance>
+        <chance ore="REDSTONE_ORE">75</chance>
+        <chance ore="IRON_ORE">85</chance>
+        <chance ore="GOLD_ORE">95</chance>
+        <chance ore="DIAMOND_ORE">99</chance>
+        <chance ore="EMERALD_ORE">100</chance>
+        <night>
+            <!-- 1 out of X chance. -->
+            <chance ore="MOSSY_COBBLESTONE">10</chance>
+            <chance ore="SLIME_BLOCK">125000</chance>
+        </night>
+    </setting>
+
+    <setting type="EVENTS">
+        <oreRainAt>6000</oreRainAt>
+        <nightWarnings>3</nightWarnings>
+        <defaultAtmosphere>MELLOW</defaultAtmosphere>
+    </setting>
+
+    <setting type="ADMINISTRATIVE">
+        <worldID>islands</worldID>
+        <purgeDelay>3</purgeDelay>
+        <inactivityThreshold>90</inactivityThreshold>
+        <safeRebootTime>90</safeRebootTime>
+        <allocationLimitMB>3840</allocationLimitMB>
+        <schematics>
+            <small>small.schematic</small>
+            <medium>medium.schematic</medium>
+            <large>default.schematic</large>
+        </schematics>
+    </setting>
+</settings>
