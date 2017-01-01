@@ -1,4 +1,6 @@
 <categories>
+    <!-- [] denotes the player's in-game name.  -->
+    <!-- ][ denotes an actor's in-game name or type. -->
     <category type="VOID">
         <messages>
             <message>[] fell off their Island.</message>
