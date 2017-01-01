@@ -1,0 +1,59 @@
+<categories>
+    <category type="VOID">
+        <messages>
+            <message>[] fell off their Island.</message>
+            <message>[] tried to look at the bottom of their Island.</message>
+            <message>[] hit the ground hard on nothing.</message>
+            <message>[] wasn't stopped by bedrock.</message>
+            <message>[] tripped and fell, and fell, and fell.</message>
+            <message>[] went looking for Hell.</message>
+            <message>[] didn't orbit.</message>
+            <message>[]'s floor encountered a 404.</message>
+            <message>[] entered the Fourth Dimension.</message>
+            <message>[] went to Narnia and hit the ground. Hard.</message>
+            <message>[] never found what was down in the void.</message>
+            <message>[] was pulled apart by violent tidal forces.</message>
+            <message>[] didn't react as quick as expected.</message>
+            <message>[] needs to stop falling into the void.</message>
+            <message>Void: 1, []: 0.</message>
+            <message>Sympathising with the void, [] gave themselves.</message>
+            <message>[] died in a vacuum.</message>
+            <message>[] wanted a comical void death reason but didn't get one.</message>
+        </messages>
+    </category>
+    <category type="FALL">
+        <messages>
+            <message>[]'s legs became arms.</message>
+            <message>Gravity: 1, []: 0.</message>
+            <message>[]'s legs got yiffed.</message>
+            <message>[]'s dreams of flying became nightmares.</message>
+            <message>[] broke several bones after a fall.</message>
+            <message>[] shouldn't B.A.S.E. jump.</message>
+            <message>[] violently splattered onto the ground.</message>
+            <message>[] needs to hold onto the handrail next time.</message>
+            <message>[] forgot their parachute.</message>
+            <message>[] literally faceplanted. LOL.</message>
+            <message>Help! []'s fallen and they can't get up!</message>
+        </messages>
+    </category>
+    <category type="ENTITY_ATTACK">
+        <messages>
+            <message>[] was killed by an angry ][.</message>
+            <message>[] got sucker-punched by ][.</message>
+            <message>][ gave [] a fatal pile driver.</message>
+            <message>[] was forcefully claimed by ][.</message>
+            <message>][: 1, []: 0.</message>
+            <message>[] didn't step out of ]['s way.</message>
+            <message>[] was nominated for a Darwin award by ][.</message>
+            <message>[] was felled by a heroic ][.</message>
+            <message>][ just wanted to be friends with [].</message>
+            <message>][ was too excited to see [].</message>
+            <message>][ blasted electro-swing music in []'s ears and killed them.</message>
+            <message>[] is being humiliated by this ][ death message.</message>
+            <message>Ha ha ha! [] was slain. Kudos to ][!</message>
+            <message>][ eliminated []. +100✈</message>
+            <message>][ bid farewell to the late [].</message>
+            <message>[] is gonna get revenge on that damn ][</message>
+        </messages>
+    </category>
+</categories>
