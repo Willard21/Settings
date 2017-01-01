@@ -21,6 +21,8 @@
             <message>Sympathising with the void, [] gave themselves.</message>
             <message>[] died in a vacuum.</message>
             <message>[] wanted a comical void death reason but didn't get one.</message>
+            <message>[] discovered that blood boils in a vacuum.</message>
+            <message>[] spaghettified.</message>
         </messages>
     </category>
     <category type="FALL">
@@ -41,6 +43,7 @@
     <category type="ENTITY_ATTACK">
         <messages>
             <message>[] was killed by an angry ][.</message>
+            <message>][ beat the shit out of [].</message>
             <message>[] got sucker-punched by ][.</message>
             <message>][ gave [] a fatal pile driver.</message>
             <message>[] was forcefully claimed by ][.</message>
