@@ -62,8 +62,8 @@
         <initialChance>7</initialChance>
         <!-- Chance distribution over 100%. -->
         <chance ore="COAL_ORE">25</chance>
-        <chance ore="LAPIS_ORE">50</chance>
-        <chance ore="REDSTONE_ORE">75</chance>
+        <chance ore="LAPIS_ORE">44</chance>
+        <chance ore="REDSTONE_ORE">71</chance>
         <chance ore="IRON_ORE">85</chance>
         <chance ore="GOLD_ORE">95</chance>
         <chance ore="DIAMOND_ORE">99</chance>
